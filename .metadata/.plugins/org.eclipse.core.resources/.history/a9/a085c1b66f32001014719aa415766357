@@ -1,0 +1,5 @@
+package com.tuanloc.service;
+
+public class CustomUserDetailsImpl {
+
+}

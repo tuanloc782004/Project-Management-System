@@ -1,0 +1,5 @@
+package com.tuanloc.repository;
+
+public interface UserRepository {
+
+}
