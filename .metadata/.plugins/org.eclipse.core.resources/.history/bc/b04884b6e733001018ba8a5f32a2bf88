@@ -1,0 +1,5 @@
+package com.tuanloc.config;
+
+public class JwtProvider {
+
+}

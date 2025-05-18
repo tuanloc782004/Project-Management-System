@@ -1,0 +1,5 @@
+package com.tuanloc.controller;
+
+public class AuthController {
+
+}
